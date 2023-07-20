@@ -40,7 +40,7 @@ function mayorQueCincuenta(num) {
 
 function esPar(num) {
    if(num%2 == 0){
-      return(true)
+      return(true);
    }
    return(false);
    // Retorna true si "num" es par.
@@ -50,7 +50,7 @@ function esPar(num) {
 
 function esImpar(num) {
    if(num%2 != 0){
-      return(true)
+      return(true);
    }
    return(false);
    // Retorna true si "num" es impar.
